@@ -342,7 +342,7 @@ if ch == 1:
     print("The Resultant Matrix Is ::>")
     for r in result: 
         print(r)""")
-            main()
+                    main()
                 elif ch == 2:
                     print("\n")
                     print("\n")
@@ -374,7 +374,7 @@ for x in range(n):
 print("Resultant Matrix is ::>")
 for r in result: 
    print(r)""")
-            main()
+                    main()
                 elif ch == 3:
                     main()
                 else:
